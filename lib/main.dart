@@ -27,7 +27,7 @@ class MyApp extends StatelessWidget {
                     color: Colors.white,
                     fontWeight: FontWeight.bold,
                   )),
-              Text('FLUTTER DEVELOPER',
+              Text('FRONT-END DEVELOPER',
                   style: TextStyle(
                     fontFamily: 'Source Sans Pro',
                     color: Colors.teal.shade100,
@@ -37,7 +37,7 @@ class MyApp extends StatelessWidget {
                   )),
               SizedBox(
                 height: 20.0,
-                width: 150.0,
+                width: 165.0,
                 child: Divider(
                   color: Colors.teal.shade100,
                 ),
